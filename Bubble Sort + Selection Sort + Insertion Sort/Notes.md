@@ -14,4 +14,6 @@ AP and GP
 
 for notes and diagram : 
 
-https://excalidraw.com/#json=JjbeS0voo-oTbgsvlnEVY,jMJEmEMmX214XnYnIQYZYw
+Excalidraw : https://excalidraw.com/#json=JjbeS0voo-oTbgsvlnEVY,jMJEmEMmX214XnYnIQYZYw
+
+app.easier workspace: https://app.eraser.io/workspace/cYp9Po23NFTpceOwbnSp
