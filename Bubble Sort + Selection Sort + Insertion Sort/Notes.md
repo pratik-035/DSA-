@@ -10,3 +10,8 @@ Time Complexity : O(n^2)
 Also note that for time complexity :
 suggest you to do matehmatics 
 AP and GP 
+
+
+for notes and diagram : 
+
+https://excalidraw.com/#json=JjbeS0voo-oTbgsvlnEVY,jMJEmEMmX214XnYnIQYZYw
