@@ -22,7 +22,7 @@ app.easier workspace: https://app.eraser.io/workspace/cYp9Po23NFTpceOwbnSp
 
 
 <h1><b>Bubble Sort</b></h1> 
-Bubble Sort compares each pair of adjacent elements and swaps them if they are in the wrong order. This process repeast until the array is sorted .
+Definition : Bubble Sort compares each pair of adjacent elements and swaps them if they are in the wrong order. This process repeast until the array is sorted .
 
 ============== Example ==================== 
 Imagine you have a line of people and you want ti arrange them in order of height. You go from left to right, comparing each person with the next one. If the person on the left is taller, you ask them to swap. You repeat this process again and again until nobody needs to swap - that's Bubble Sort 
@@ -39,7 +39,10 @@ Space Complexity : O(1)
 Use bubble sort if you want something easy to understand or teach. 
 
 
-Selection Sort : Selection Sort finds the minimum element from the unsorted part and swaps it with the first unsorted element. It repeats this process until everything is sorted
+
+<h1><b>Selection Sort</b></h1> 
+
+Definition : Selection Sort finds the minimum element from the unsorted part and swaps it with the first unsorted element. It repeats this process until everything is sorted
 
 ============== Example ==================== 
 Suppose you are selecting the best players for a team. From a group, you pick the best player and place then in the front. Then from the remaining, you again pick the best and so on - that's Selection Sort
@@ -60,6 +63,10 @@ Space Complexity : O(1)
 
 ============== When to use ? =======================
 
+Use Selection Sort when you care more about reducing the number of swaps 
+
+
+<h1><b>Insertion Sort</b></h1> 
 
 Insertion Sort : Insertion Sort builds the final sprted array ont item at a time by picking the next element and inserting it into the correct position among the already-sorted elements 
 
@@ -78,4 +85,4 @@ Worst Time : O(n^2)
 Space Complexity : O(1)
 
 ============== When to use ? =======================
--> Use Insetion Sort for small or nearly sorted data 
+-> Use Insertion Sort for small or nearly sorted data 
