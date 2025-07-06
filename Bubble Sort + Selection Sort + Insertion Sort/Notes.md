@@ -21,7 +21,7 @@ app.easier workspace: https://app.eraser.io/workspace/cYp9Po23NFTpceOwbnSp
 
 
 
-<h1><b>Bubble Sort</b></h1>
+Bubble Sort
 Definition : Bubble Sort compares each pair of adjacent elements and swaps them if they are in the wrong order. This process repeast until the array is sorted .
 
 ============== Example ==================== 
